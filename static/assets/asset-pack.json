@@ -1,0 +1,85 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/grassland_tiles.png",
+                "type": "image",
+                "key": "grassland_tiles"
+            },
+            {
+                "url": "assets/GrassWorld.json",
+                "type": "tilemapTiledJSON",
+                "key": "GrassWorld"
+            },
+            {
+                "url": "assets/MaleFarmer.png",
+                "type": "image",
+                "key": "MaleFarmer"
+            },
+            {
+                "url": "assets/MaleFarmerAnimations.json",
+                "type": "animation",
+                "key": "MaleFarmerAnimations"
+            },
+            {
+                "url": "assets/Medieval_Townfolk_Male_Farmer_idle1.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Medieval_Townfolk_Male_Farmer_idle1"
+            },
+            {
+                "url": "assets/Medieval_Townfolk_Male_Farmer_idle1_diag.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Medieval_Townfolk_Male_Farmer_idle1_diag"
+            },
+            {
+                "url": "assets/Medieval_Townfolk_Male_Farmer_walking.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Medieval_Townfolk_Male_Farmer_walking"
+            },
+            {
+                "url": "assets/Medieval_Townfolk_Male_Farmer_walking_diag.png",
+                "frameConfig": {
+                    "frameWidth": 128,
+                    "frameHeight": 128,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Medieval_Townfolk_Male_Farmer_walking_diag"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

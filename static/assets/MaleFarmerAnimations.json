@@ -1,0 +1,338 @@
+{
+    "anims": [
+        {
+            "key": "FarmerIdleNorth",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 9,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerIdleSouth",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerIdleWest",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerIdleEast",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_idle1",
+                    "frame": 8,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerWalkingNorth",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 24,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 25,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 26,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 27,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 28,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 29,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 30,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 31,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerWalkingSouth",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 0,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 1,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 2,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 3,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 4,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 5,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 6,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 7,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerWalkingWest",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 10,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 11,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 12,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 13,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 14,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 15,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "FarmerWalkingEast",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 16,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 17,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 18,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 19,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 20,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 21,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 22,
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Medieval_Townfolk_Male_Farmer_walking",
+                    "frame": 23,
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": false
+    }
+}

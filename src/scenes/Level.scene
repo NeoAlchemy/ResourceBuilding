@@ -1,0 +1,76 @@
+{
+    "id": "b685c081-ee5f-4b67-b583-415922c9e2c4",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Level",
+        "compilerOutputLanguage": "TYPE_SCRIPT"
+    },
+    "displayList": [
+        {
+            "type": "TilemapLayer",
+            "id": "d6f90db4-faa4-4c6f-bebc-ebe40d69f78f",
+            "label": "base",
+            "scope": "CLASS",
+            "components": [],
+            "tilemapId": "36b746ed-57fa-435b-9e81-14c0cd060951",
+            "layerName": "base",
+            "tilesets": [
+                "Grasslands"
+            ]
+        },
+        {
+            "type": "TilemapLayer",
+            "id": "ae12823d-822e-43e9-93f0-b84b63f76c0c",
+            "label": "buildings",
+            "scope": "CLASS",
+            "components": [],
+            "tilemapId": "36b746ed-57fa-435b-9e81-14c0cd060951",
+            "layerName": "tent1",
+            "tilesets": [
+                "Grasslands"
+            ]
+        },
+        {
+            "type": "ArcadeSprite",
+            "id": "f8337ff1-6a9f-4bf0-ac16-37b87fdb3baa",
+            "label": "maleFarmer",
+            "scope": "CLASS",
+            "components": [
+                "AIRandomWalking"
+            ],
+            "texture": {
+                "key": "MaleFarmer"
+            },
+            "x": 82,
+            "y": 104,
+            "scaleX": 0.75,
+            "scaleY": 0.75,
+            "body.width": 128,
+            "body.height": 128
+        }
+    ],
+    "plainObjects": [
+        {
+            "id": "36b746ed-57fa-435b-9e81-14c0cd060951",
+            "type": "Tilemap",
+            "label": "grassWorld",
+            "key": "GrassWorld",
+            "tilesets": [
+                {
+                    "name": "Grasslands",
+                    "imageKey": "grassland_tiles"
+                }
+            ]
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}
