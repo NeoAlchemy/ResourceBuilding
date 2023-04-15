@@ -37,12 +37,18 @@ export default class Level extends Phaser.Scene {
 		maleFarmer.scaleY = 0.75;
 		maleFarmer.body.setSize(128, 128, false);
 
+		// scroll
+		const scroll = this.add.image(700, 500, "scroll");
+		scroll.scaleX = 0.5;
+		scroll.scaleY = 0.5;
+
 		// maleFarmer (components)
 		new AIRandomWalking(maleFarmer);
 
 		this.base = base;
 		this.buildings = buildings;
 		this.maleFarmer = maleFarmer;
+		this.scroll = scroll;
 		this.grassWorld = grassWorld;
 
 		this.events.emit("scene-awake");
@@ -51,6 +57,7 @@ export default class Level extends Phaser.Scene {
 	private base!: Phaser.Tilemaps.TilemapLayer;
 	private buildings!: Phaser.Tilemaps.TilemapLayer;
 	private maleFarmer!: Phaser.Physics.Arcade.Sprite;
+	private scroll!: Phaser.GameObjects.Image;
 	private grassWorld!: Phaser.Tilemaps.Tilemap;
 
 	/* START-USER-CODE */
@@ -74,7 +81,7 @@ export default class Level extends Phaser.Scene {
 		this.cameras.main.startFollow(this.maleFarmer);
 		//this.matter.world.setBounds();
 		this.maleFarmer.setCollideWorldBounds(true);
-
+		this.scroll.setScrollFactor(0,0)
 
 		this.buildings.setCollisionByProperty({ collides: true }, true);
 		let tiles: Array<Phaser.Tilemaps.Tile> = this.buildings.getTilesWithinWorldXY(0,0, 800, 600, { isColliding: true});

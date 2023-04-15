@@ -51,6 +51,20 @@
             "scaleY": 0.75,
             "body.width": 128,
             "body.height": 128
+        },
+        {
+            "type": "Image",
+            "id": "3e4e21ed-c352-4fb9-bc48-036aa7c194ea",
+            "label": "scroll",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "scroll"
+            },
+            "x": 700,
+            "y": 500,
+            "scaleX": 0.5,
+            "scaleY": 0.5
         }
     ],
     "plainObjects": [

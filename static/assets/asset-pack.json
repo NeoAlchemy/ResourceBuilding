@@ -72,6 +72,11 @@
                 },
                 "type": "spritesheet",
                 "key": "Medieval_Townfolk_Male_Farmer_walking_diag"
+            },
+            {
+                "url": "assets/scroll.png",
+                "type": "image",
+                "key": "scroll"
             }
         ]
     },
